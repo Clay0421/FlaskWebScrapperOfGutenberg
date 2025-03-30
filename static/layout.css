@@ -1,0 +1,25 @@
+
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: arial, sans-serif;
+}
+
+.about > p {
+    text-align: justify;
+    font-size: 18px;
+}
+
+
+table {
+    text-align: left;
+    border-radius: 15px;
+    border-collapse: collapse;
+    width: 100%;
+    
+}
+td {
+    border: solid 1px white;
+    padding: 15px;
+}
